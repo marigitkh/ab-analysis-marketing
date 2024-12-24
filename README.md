@@ -19,7 +19,8 @@ Analysis includes group comparisons, revenue prediction, and statistical signifi
 - **Statsmodels** and **SciPy**: Statistical tests.
 
 ## Dataset
-Uses `marketing_AB.csv` with group performance metrics.
+Uses `marketing_AB.csv` with group performance metrics from [Marketing A/B Testing Dataset](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data)
+
 
 ## Instructions
 1. Install required Python libraries.
