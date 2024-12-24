@@ -24,4 +24,4 @@ This project focuses on analyzing the results of an A/B test in the context of d
 
 ## Results
 
-The findings and detailed explanations can be found in the notebook. Recommendations for optimizing digital marketing strategies are included based on the test results.
+The analysis explored the effectiveness of ads compared to public service announcements (PSAs). Results revealed that users exposed to ads had significantly higher purchase probabilities. Statistical hypothesis testing confirmed the impact of targeted advertising on purchase behavior, emphasizing its critical role in influencing consumer decisions. These findings offer valuable guidance for designing future marketing strategies to optimize engagement and sales.
