@@ -1,28 +1,27 @@
-# A/B Testing in Digital Marketing
+# Digital Marketing A/B Test Analysis
 
-This project analyzes a digital marketing campaign using A/B testing to assess campaign success and the impact of ads.
+This project focuses on analyzing the results of an A/B test in the context of digital marketing. The goal is to evaluate the effectiveness of two different marketing strategies and draw insights to improve performance.
 
-## Objectives
-1. Determine campaign success.
-2. Quantify advertisement effectiveness.
+## Files
+
+1. **`ab_test_digital_marketing.ipynb`**  
+   A Jupyter Notebook containing the full analysis and visualizations of the A/B test. It includes:
+   - Data preprocessing steps
+   - Statistical tests to compare performance between the groups
+   - Key insights and recommendations
+
+2. **`marketing_AB.csv`**  
+   The dataset used for the A/B test analysis. It contains:
+   - User-level data
+   - Metrics related to engagement and conversions for each marketing strategy  
+   **Source:** [Marketing A/B Testing Dataset on Kaggle](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data)
 
 ## Methodology
-The dataset includes:
-- **Experimental Group**: Exposed to ads.
-- **Control Group**: Shown PSA or no ads.
 
-Analysis includes group comparisons, revenue prediction, and statistical significance testing.
+1. Data cleaning and exploratory data analysis (EDA) to understand the dataset structure and metrics.
+2. Statistical testing (e.g., t-tests, chi-square tests) to determine the significance of observed differences between groups.
+3. Visualization to support conclusions and provide actionable insights.
 
-## Tools
-- **Pandas** and **NumPy**: Data handling.
-- **Seaborn** and **Matplotlib**: Visualizations.
-- **Statsmodels** and **SciPy**: Statistical tests.
+## Results
 
-## Dataset
-Uses `marketing_AB.csv` with group performance metrics from [Marketing A/B Testing Dataset](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data)
-
-
-## Instructions
-1. Install required Python libraries.
-2. Run the notebook with the dataset.
-3. Interpret visualizations and statistical results.
+The findings and detailed explanations can be found in the notebook. Recommendations for optimizing digital marketing strategies are included based on the test results.
